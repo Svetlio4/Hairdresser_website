@@ -1,0 +1,76 @@
+.photos_of_hair{
+    height: 1000px;
+    width: 95%;
+    margin: 0 auto;
+    box-shadow: 8px 8px 10px #d365e9;
+    display: flex;
+}
+.photos_of_hair h3{
+    text-align: center;
+    font-family: cursive;
+}
+.ph-container1{
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.ph-container2{
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.ph-container3{
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+.hair-cut{
+    width: 42.3%;
+    height: 200px;
+    justify-self: center;
+    margin-left: 30%;
+}
+.hair-cut img{
+    height:200px;
+}
+.hair-cut p{
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 0px;
+    color: whitesmoke;
+}
+.hair-cut2{
+    width: 42.3%;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 30%;
+}
+.hair-cut2 img{
+    height:200px;
+    width: 100%;
+}
+.hair-cut2 p{
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 0px;
+    color: whitesmoke;
+}
+.hair-cut3{
+    width: 42.3%;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 30%;
+}
+.hair-cut3 img{
+    height:200px;
+    width: 100%;
+}
+.hair-cut3 p{
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 0px;
+    color: whitesmoke;
+}

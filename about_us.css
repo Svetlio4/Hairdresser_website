@@ -1,0 +1,66 @@
+.body {
+  width: 100%;
+  height: fit-content;
+}
+.middle2 {
+  width: 90%;
+  height: 600px;
+  margin: 0 auto;
+  box-shadow: 8px 8px 10px #d365e9;
+}
+.row2 {
+  width: 100%;
+  height: 100px;
+}
+.row2 h2 {
+  text-align: center;
+  font-family: cursive;
+}
+.coll1 {
+  float: left;
+  height: 498px;
+  width: 33%;
+  box-shadow: inset 10px 10px 36px #d365e9;
+  border-top-left-radius: 10px;
+}
+.coll2 {
+  float: left;
+  height: 498px;
+  width: 33%;
+  box-shadow: inset 0px 10px 36px #d365e9;
+}
+.coll3 {
+  float: left;
+  height: 498px;
+  width: 33%;
+  box-shadow: inset -10px 10px 36px #d365e9;
+  border-top-right-radius: 10px;
+}
+.coll1 img {
+  line-height: 150px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 15%;
+}
+.coll2 img {
+  line-height: 150px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 15%;
+}
+.coll3 img {
+  line-height: 150px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 15%;
+}
+.text h3{
+  text-align: center;
+  margin-top: 50px;
+  font-family: cursive;
+}
+.text p{
+  text-align: center;
+  font-family: cursive;
+  font-weight: 500;
+}
